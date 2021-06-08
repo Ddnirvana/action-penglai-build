@@ -1,0 +1,5 @@
+name: 'Penglai-Build'
+description: 'Testing the build of Penglai (based on OpenSBI)'
+runs:
+        using: 'docker'
+        image: 'Dockerfile'
